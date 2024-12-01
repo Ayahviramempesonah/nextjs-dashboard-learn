@@ -1,5 +1,5 @@
 import SideNav from '@/app/ui/dashboard/sidenav';
-//import { lusitana } from '@/app/ui/fonts';
+import { lusitana } from '@/app/ui/fonts';
  
 export default function Layout({ children }: { children: React.ReactNode }) {
   return (
